@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Language>
+	<LargestWinner>
+		<EN>Largest Winner:</EN>
+		<RU>Самый большой выигрыш:</RU>
+		<DE>Höchster Gewinn:</DE>
+		<RO>Cel mai mare câștigător:</RO>
+		<TR>En Büyük Kazanç:</TR>
+		<PL>Największa wygrana:</PL>
+		<NL>Grootste winnaar:</NL>
+		<SV>Största vinnaren:</SV>
+		<NO>Største gevinst:</NO>
+		<HU>A legnagyobb nyertes:</HU>
+		<SL>Najvišji dobitek:</SL>
+		<SK>Najväčšia Výhra:</SK>
+		<LV>Lielākais laimests:</LV>
+		<DK>Største vinder:</DK>
+		<FR>Grand gagnant:</FR>
+		<BG>Топ печалба:</BG>
+		<MK>Најголем добитник:</MK>
+		<ES>Mayor Ganador:</ES>
+		<PT>Maior Vencedor:</PT>
+		<IT>Vincitore Maggiore:</IT>
+		<KA>ყველაზე დიდი გამარჯვებული:</KA>
+		<HR>Najveći dobitnik:</HR>
+	</LargestWinner>
+	<NumberOfWinners>
+		<EN>Number of winners:</EN>
+		<RU>Количество победителей:</RU>
+		<DE>Anzahl von Gewinnern:</DE>
+		<RO>Număr de câștigători:</RO>
+		<TR>Kazanan Sayısı:</TR>
+		<PL>Liczba zwycięzców:</PL>
+		<NL>Aantal winnaars:</NL>
+		<SV>Antal vinnare:</SV>
+		<NO>Antall vinnere:</NO>
+		<HU>Száma nyertesek:</HU>
+		<SL>Število dobitnikov:</SL>
+		<SK>Počet Výhercov:</SK>
+		<LV>Uzvarētāju skaits:</LV>
+		<DK>Antallet af vindere:</DK>
+		<FR>Nombre de gagnants:</FR>
+		<BG>Брой печалби:</BG>
+		<MK>Број на добитници:</MK>
+		<ES>Número de Ganadores:</ES>
+		<PT>Número de Vencedores:</PT>
+		<IT>Numero di Vincitori:</IT>
+		<KA>გამარჯვებულები:</KA>
+		<HR>Broj dobitnika:</HR>
+	</NumberOfWinners>
+	<LastWinner>
+		<EN>Last Winner:</EN>
+		<RU>Последний победитель:</RU>
+		<DE>Letzter Gewinner:</DE>
+		<RO>Ultimul câștigător:</RO>
+		<TR>Son Kazanan:</TR>
+		<PL>Ostatni zwycięzca:</PL>
+		<NL>Laatste winnaar:</NL>
+		<SV>Senaste vinnaren:</SV>
+		<NO>Siste vinner:</NO>
+		<HU>Utolsó győztes:</HU>
+		<SL>Zadnji dobitnik:</SL>
+		<SK>Posledný Víťaz:</SK>
+		<LV>Pēdējais uzvarētājs:</LV>
+		<DK>Sidste vinder:</DK>
+		<FR>Dernier gagnant:</FR>
+		<BG>Последна:</BG>
+		<MK>Последен добитник:</MK>
+		<ES>Último Ganador:</ES>
+		<PT>Último Vencedor:</PT>
+		<IT>Ultimo Vincitore:</IT>
+		<KA>ბოლო გამარჯვებული:</KA>
+		<HR>Posljednji dobitnik:</HR>
+	</LastWinner>
+</Language>
